@@ -1,0 +1,4 @@
+name: FFA
+version: ${project.version}
+main: me.bykymy.ffa.FFA
+api-version: 1.17
